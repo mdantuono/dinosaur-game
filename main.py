@@ -31,6 +31,7 @@ JUMPING = pygame.image.load(os.path.join('Assets/Van', 'vanjump.png'))
 DUCKING = [pygame.image.load(os.path.join('Assets/Van', 'vanduck.png')),
            pygame.image.load(os.path.join('Assets/Van', 'vanduck.png'))]
 
+################OBSTACLES##########################
 SMALL_CACTUS = [pygame.image.load(os.path.join("Assets/Cactus", "SmallCactus1.png")),
                 pygame.image.load(os.path.join("Assets/Cactus", "SmallCactus2.png")),
                 pygame.image.load(os.path.join("Assets/Cactus", "SmallCactus3.png"))]
